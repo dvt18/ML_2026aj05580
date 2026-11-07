@@ -18,8 +18,8 @@ Given 27 measured characteristics of a steel-plate surface fault, predict which 
 
 ## c. GitHub Repository Link
 
-- **GitHub repository:** _add your repository URL here_
-- **Live Streamlit app:** _add your Streamlit Community Cloud URL here_
+- **GitHub repository:** https://github.com/dvt18/ML_2026aj05580
+- **Live Streamlit app:** https://ml2026aj05580.streamlit.app/
 
 ## d. Models Used
 
