@@ -78,7 +78,7 @@ Use Python 3.14 (the saved models were created with scikit-learn 1.9.0).
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 To retrain and regenerate the models, test data and metrics:
